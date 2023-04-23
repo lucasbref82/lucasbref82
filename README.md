@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Brenner Ferreira</h1>
-<h3 align="center">Um desenvolvedor FullStack no Brasil</h3>
+<h3 align="center">Desenvolvedor FullStack na empresa Digicade</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbref82&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbref82" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbref82" alt="lucasbref82" /></a> </p>
 
-- 🔭 Eu estou trabalhando no projeto pessoal [food-api](https://github.com/lucasbref82/food-api)
+- 🔭 Eu estou trabalhando no projeto pessoal [food-api], implementando as melhores práticas RESTFul. (https://github.com/lucasbref82/food-api)
 
-- 🌱 Eu estou estudando. **Java, Spring Boot, Cultura Devops**
+- 🌱 Eu estou estudando. **Java, Spring Boot, Vue.js, Quasar, Cultura Devops, Geoserver, Geoprocessamento**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/lucasbref82](https://github.com/lucasbref82)
 
