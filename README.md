@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Brenner Ferreira</h1>
-<h3 align="center">Desenvolvedor FullStack na empresa Digicade</h3>
+<h3 align="center">Desenvolvedor FullStack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbref82&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbref82" /> </p>
 
