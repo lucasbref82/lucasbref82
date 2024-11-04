@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbref82" alt="lucasbref82" /></a> </p>
 
-- 🔭 Eu estou trabalhando no projeto pessoal [food-api], implementando as melhores práticas RESTFul. (https://github.com/lucasbref82/food-api)
-
-- 🌱 Eu estou estudando. **Java, Spring Boot, Vue.js, Quasar, Cultura Devops, Geoserver, Geoprocessamento**
+- 🌱 Eu estou estudando. **Java, Spring Boot, Cultura Devops, Arquitetura de Software**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/lucasbref82](https://github.com/lucasbref82)
 
-- 💬 Falo sobre **Java, Ecossistema Spring, Vue.js, Quasar e Devops**
+- 💬 Falo sobre **Java, Spring Boot, Cultura Devops, Arquitetura de Software**
 
 - ⚡ Fatos curiosos **Gosto de animes, amo tecnologia e sou apaixonado com animais, jogos digitais, futebol e amo a natureza.**
 
