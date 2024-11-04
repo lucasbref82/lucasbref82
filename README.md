@@ -15,7 +15,7 @@
 
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-ferreira-791049177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-ferreira-791049177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-ferreira-791049177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-ferreira-791049177/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lucas.brenner.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lucas.brenner.96/" height="30" width="40" /></a>
 <a href="https://instagram.com/@lucasbref82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lucasbref82" height="30" width="40" /></a>
 <a href="https://discord.gg/lucasbref82#4789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucasbref82#4789" height="30" width="40" /></a>
