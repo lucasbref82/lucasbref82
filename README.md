@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbref82" alt="lucasbref82" /></a> </p>
 
-- 🌱 Eu estou estudando. **Java, Spring Boot, Cultura Devops, Arquitetura de Software**
+- 🌱 Eu estou estudando. **Java, Spring Boot, Java Reativo, Arquitetura de Software e Python com foco em IA**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/lucasbref82](https://github.com/lucasbref82)
-
-- 💬 Falo sobre **Java, Spring Boot, Banco de Dados, Python, IA e Arquitetura de Software**
 
 - ⚡ Fatos curiosos **Gosto de animes, amo tecnologia e sou apaixonado com animais, jogos digitais, futebol e amo a natureza.**
 
