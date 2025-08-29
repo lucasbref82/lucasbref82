@@ -54,21 +54,15 @@ Sou desenvolvedor back-end apaixonado por **construir APIs escaláveis**, otimiz
 ---
 
 ### 🔗 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-ferreira-791049177/" target="_blank">![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)</a>
-  &nbsp;
-  <a href="https://www.facebook.com/lucas.brenner.96/" target="_blank">![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)</a>
-  &nbsp;
-  <a href="https://discord.gg/lucasbref82" target="_blank">![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)</a>
-</p>
+<h3 align="left">Conecte-se comigo:</h3> 
+<p align="left"> <a href="https://www.linkedin.com/in/lucas-ferreira-791049177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-ferreira-791049177/" height="30" width="40" /></a> <a href="https://www.facebook.com/lucas.brenner.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lucas.brenner.96/" height="30" width="40" /></a> <a href="https://discord.gg/lucasbref82#4789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucasbref82#4789" height="30" width="40" /></a></p>
 
 **Email:** lucasbref82@gmail.com
 
 ---
 
 ### ⚡ Extras / Disponibilidade
-Disponível para vagas Júnior/Pleno em back-end, freelance e colaborações em projetos Open Source.  
-Se quiser, posso adaptar este README para **versão em inglês**, **versão curta para LinkedIn** ou **converter para HTML** (pronto para GitHub Pages).
+Disponível para vagas Sênior em back-end, freelance e colaborações em projetos Open Source.  
 
 ---
 
