@@ -71,7 +71,5 @@ Disponível para vagas Sênior em back-end, freelance e colaborações em projet
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/lucasbref82?style=social" alt="followers" />
-  <img src="https://img.shields.io/github/languages/top/lucasbref82" alt="top language" />
-  <img src="https://img.shields.io/github/stars/lucasbref82?style=social" alt="stars" />
 </p>
 
