@@ -67,7 +67,6 @@ Disponível para vagas Sênior em back-end, freelance e colaborações em projet
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbref82" alt="profile-summary" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=lucasbref82&theme=react-dark" alt="activity-graph" />
 </p>
 
 <p align="center">
