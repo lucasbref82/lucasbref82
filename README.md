@@ -65,9 +65,14 @@ Disponível para vagas Sênior em back-end, freelance e colaborações em projet
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbref82&show_icons=true&locale=en&layout=compact" alt="top langs" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbref82&show_icons=true&locale=en" alt="github stats" />
-  &nbsp;
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbref82" alt="profile-summary" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=lucasbref82&theme=react-dark" alt="activity-graph" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/lucasbref82?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/languages/top/lucasbref82" alt="top language" />
+  <img src="https://img.shields.io/github/stars/lucasbref82?style=social" alt="stars" />
+</p>
+
