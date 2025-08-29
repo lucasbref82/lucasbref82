@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasbref82&label=Profile%20views&color=0e75b6&style=flat" alt="visitas" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/lucasbref82?style=social" alt="Seguidores" />
+</p>
 
 ---
 
@@ -69,7 +72,4 @@ Disponível para vagas Sênior em back-end, freelance e colaborações em projet
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbref82" alt="profile-summary" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/lucasbref82?style=social" alt="followers" />
-</p>
 
