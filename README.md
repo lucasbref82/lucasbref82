@@ -3,11 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasbref82&label=Profile%20views&color=0e75b6&style=flat" alt="visitas" />
+  <img src="https://img.shields.io/github/followers/lucasbref82?style=social" alt="Seguidores" /></p>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/lucasbref82?style=social" alt="Seguidores" />
-</p>
-
 ---
 
 ### 🔭 Resumo rápido
