@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou <strong>Lucas Brenner Ferreira</strong></h1>
+<h1 align="center">Olá 👋, eu sou <strong>Lucas Brenner Ferreira</strong>, desenvolvedor de software Sênior.</h1>
 <h3 align="center">Desenvolvedor Back-end • Java · Bancos de Dados · DevOps · Python</h3>
 
 <p align="center">
@@ -91,5 +91,4 @@ Sou desenvolvedor back-end apaixonado por **construir APIs escaláveis**, otimiz
 ---
 
 ### ⚡ Extras / Disponibilidade
-![status](https://img.shields.io/badge/Status-Available-brightgreen?style=for-the-badge&logo=github)  
 Disponível para vagas Sênior em back-end, freelance e colaborações em projetos Open Source.
