@@ -89,6 +89,3 @@ Sou desenvolvedor back-end apaixonado por **construir APIs escaláveis**, otimiz
 📧 **Email:** lucasbref82@gmail.com  
 
 ---
-
-### ⚡ Extras / Disponibilidade
-Disponível para vagas Sênior em back-end, freelance e colaborações em projetos Open Source.
